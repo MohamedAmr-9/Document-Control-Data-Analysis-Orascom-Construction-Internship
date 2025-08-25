@@ -60,16 +60,14 @@ The dashboard offers an interactive way to track and analyze project documentati
 
 ## 📷 Dashboard Preview  
 
-![Dashboard Preview](Orascom%20Dashboard.png)  
-*(You can add a screenshot of your dashboard here for quick visualization.)*  
-
----
+![Dashboard Preview](Preview.png)  
+ ---
 
 ## 👨‍💻 Author  
 
 **Mohamed Amr**  
 - Business Information Systems | Data Analyst  
-- [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)  
+- [LinkedIn]((https://www.linkedin.com/in/mohamed-amr009/)) | [GitHub](https://github.com)  
 
 ---
 
