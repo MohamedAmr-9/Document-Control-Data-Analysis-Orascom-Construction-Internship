@@ -63,11 +63,11 @@ The dashboard offers an interactive way to track and analyze project documentati
 ![Dashboard Preview](Preview.png)  
  ---
 
-## 👨‍💻 Author  
-
+## ​​​ Author
 **Mohamed Amr**  
 - Business Information Systems | Data Analyst  
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mohamed-amr009/)) | [GitHub](https://github.com)  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-amr009/)
+
 
 ---
 
